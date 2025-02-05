@@ -1,0 +1,10 @@
+### VS Code ###
+.vscode/
+
+/logs
+
+*.log
+logs/controller.log
+logs/kafkaServer-gc.log
+logs/log-cleaner.log
+logs/server.log
